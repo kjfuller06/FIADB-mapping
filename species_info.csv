@@ -1,0 +1,11 @@
+FIA SPCD,species,Species,_TYPE_,_FREQ_,counties,total_km2,subgenus,section,clade,habitat
+825,Q. michauxii,mich,1,470,470,"440,259",Quercus,Quercus,Albae,hydric/mesic
+831,Q. phellos,phel,1,608,608,"553,646",Quercus,Lobatae,Laurifoliae,hydric/mesic
+834,Q. shumardii,shum,1,647,647,"598,260",Quercus,Lobatae,Rubrae,mesic
+835,Q. stellata,stel,1,1057,1057,"958,708",Quercus,Quercus,Stellatae,xeric
+837,Q. velutina,velu,1,1307,1307,"1,146,375",Quercus,Lobatae,Rubrae,mesic
+838,Q. virginiana,virg,1,218,218,"244,020",Quercus,Virentes,N/A,mesic
+840,Q. margarettiae,marg,1,275,275,"297,963",Quercus,Quercus,Stellatae,xeric
+8441,Q. geminata,gemi,1,91,91,"104,275",Quercus,Virentes,N/A,xeric
+8449,Q. hemisphaerica,hemi,1,316,316,"326,434",Quercus,Lobatae,Laurifoliae,xeric/mesic
+NA,Q. chapmanii,chap,1,59,59,"78,480",Quercus,Quercus,Stellatae,xeric
